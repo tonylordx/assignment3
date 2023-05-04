@@ -3,6 +3,7 @@
     width: 600px;
     margin-left: 0;
   }
+/*  để dễ nhìn em có để màu h1 sang màu đỏ khi chuyển tiếp qua size mobile  */
   h1 {
     margin: auto;
     color: red;
